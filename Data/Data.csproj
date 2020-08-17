@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DemoContext.cs" />
+    <Compile Include="Entity\Attend.cs" />
     <Compile Include="Entity\Employee.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

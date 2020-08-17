@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Data.Entity;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -12,6 +13,7 @@ namespace Data
         public DemoContext() : base("name=NtityTestEntities")
         { }
 
-        public DbSet<Entity.Employee> EmployeeList { get; set; }
+        public DbSet<Employee> EmployeeList { get; set; }
+        public DbSet<Attend> AttendsList { get; set; }
     }
 }

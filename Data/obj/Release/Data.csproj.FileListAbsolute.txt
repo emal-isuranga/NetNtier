@@ -9,3 +9,4 @@ C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Release\Data.csproj.CoreCo
 C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Release\Data.csproj.CopyComplete
 C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Release\Data.dll
 C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Release\Data.pdb
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Release\Data.csprojAssemblyReference.cache
