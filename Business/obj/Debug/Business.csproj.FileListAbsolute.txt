@@ -1,0 +1,15 @@
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\Business.dll.config
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\Business.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\Business.pdb
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\Data.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\EntityFramework.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\Data.pdb
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\Data.dll.config
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\EntityFramework.xml
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\obj\Debug\Business.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Business\obj\Debug\Business.pdb

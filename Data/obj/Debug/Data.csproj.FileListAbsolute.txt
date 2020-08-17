@@ -1,0 +1,11 @@
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\Data.dll.config
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\Data.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\Data.pdb
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\EntityFramework.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\EntityFramework.xml
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Debug\Data.dll
+C:\Users\Emal Isuranga\source\repos\NetNtier\Data\obj\Debug\Data.pdb
