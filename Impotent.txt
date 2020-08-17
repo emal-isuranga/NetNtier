@@ -1,0 +1,9 @@
+<connectionStrings>
+		<add name="NtityTestEntities" connectionString="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-FDS967J\SQLEXPRESS;initial catalog=NtityTest;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+	</connectionStrings>
+
+https://github.com/microsoftarchive/msdn-code-gallery-community-m-r/blob/master/MVC%20%2B%20Entity%20Framework%20on%20a%203%20Tier%20Architecture/%5BC%23%5D-MVC%20%2B%20Entity%20Framework%20on%20a%203%20Tier%20Architecture/C%23/MVCEF3TCS.Business/ProductManager.cs
+
+<connectionStrings>
+		<add name="NtityTestEntities" connectionString="Server=DESKTOP-FDS967J\SQLEXPRESS;Database=test;Trusted_Connection=True" providerName="System.Data.SqlClient" />
+	</connectionStrings>
